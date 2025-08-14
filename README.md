@@ -22,7 +22,7 @@ By combining *open government datasets* with *H3 hexagonal spatial indexing* and
 
 ## Data Sources
 - *Telangana Health Facility Geolocations* — [State Government Open Data TGDex](https://tgdex.telangana.gov.in/data-bank/details?id=67aadd1c-5249-4387-8ed0-b35eaee34e46) 
-- *WorldPop Gridded Population Data* — [WorldPop Hub](https://https://hub.worldpop.org/www.worldpop.org)
+- *Population Density Data* — [WorldPop Hub](https://https://hub.worldpop.org/www.worldpop.org)
 
 ---
 
